@@ -1,5 +1,12 @@
 ## Hi, I'm John and a beginner developer 🐱‍💻
 
+### Languages:
+<div style="display: inline_block">
+  <img align="center" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+  <img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  
+<br/></div>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RecantoDoJohn)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact:
