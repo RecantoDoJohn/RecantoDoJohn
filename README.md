@@ -1,4 +1,4 @@
-## Hi, I'm John and a beginner developer 🐱‍💻
+## Hi, I'm John and I'm a beginner developer 🐱‍💻
 
 ### Languages:
 <div style="display: inline_block">
